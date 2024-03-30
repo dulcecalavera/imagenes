@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+}
+.titulos{
+    color: #434343;
+    font-family: Arial;
+    font-weight: 700;
+    text-align: center;
+    
+    font-size: 24pt;
+}
+.titulos h1{
+    margin:10vh;
+}
+.textos{
+    color: #000000;
+    font-family: Arial;
+    font-size: 14.5pt;
+    font-weight: 400;
+    vertical-align: baseline;
+    text-align: center;
+    
+}
+.textos .tamano{
+    
+   
+    font-size: 12.0pt;
+    font-style: inherit;
+}
+
+.tamano{
+    text-align: center;
+}
+.separador{
+    background-color:#a84b5d;
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    align-items: center; /* Centrado vertical */
+    justify-content: center; /* Centrado horizontal */
+}
+#cosice{
+    background-image:url("https://lh5.googleusercontent.com/YAiI8k4I1SvXrKUGRPEBnDb_kN75ItWjoOhFINjQcewp7evrYy1WoBbSbcWVXtwIdTg5kfIRzdG9PYRlD-3Jhic=w16383");
+    height: 50vh;
+    display: flex;
+    align-items: center; /* Centrado vertical */
+    justify-content: center; /* Centrado horizontal */
+    
+}
+#texto{
+    color: #a84b5d;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'PT Sans', sans-serif;
+   
+}
+.servicios{
+    color: #f3f3f3;
+    vertical-align: baseline;
+    font-size: 20.0pt;
+}
+footer .servicios{
+    
+    
+    font-family: Arial;
+    font-size: 12.0pt;
+    font-weight: 400;
+    
+}
+.cards{
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.cards .titulos{
+    margin:0;
+    
+}
+.card{
+    
+    width: 30.333%;
+    
+    display: inline-block;
+    margin-top:20px;
+    margin-left: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#negocios img{
+    width: 30.333%;
+    margin-bottom: 2vw;
+    margin-left:1vw;
+    margin-top:2vw;
+}
+.imagen{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.imagen img{
+    width: 100%;
+    text-align: center;
+    max-height: 50vh;
+}
+#arreglo{
+    height: 100vh;
+}
+h1{
+    margin:0;
+   
+}
+h2{
+    margin:0;
+    display: flex;
+    align-items: center; /* Centrado vertical */
+    justify-content: center; /* Centrado horizontal */
+}
+h3{
+    margin-top:30px;
+    color: #000000;
+    font-family: Arial;
+    font-weight: 700;
+    vertical-align: baseline;
+    font-size: 18.0pt;
+    text-align: center;
+}
+
+
+
